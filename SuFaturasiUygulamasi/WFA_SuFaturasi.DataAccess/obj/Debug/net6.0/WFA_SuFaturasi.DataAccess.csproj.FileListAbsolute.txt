@@ -1,0 +1,17 @@
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\bin\Debug\net6.0\WFA_SuFaturasi.DataAccess.deps.json
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\bin\Debug\net6.0\WFA_SuFaturasi.DataAccess.runtimeconfig.json
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\bin\Debug\net6.0\WFA_SuFaturasi.DataAccess.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\bin\Debug\net6.0\WFA_SuFaturasi.DataAccess.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\bin\Debug\net6.0\SuFaturası.Entities.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\bin\Debug\net6.0\SuFaturası.Entities.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.AssemblyInfo.cs
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.csproj.CopyComplete
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\refint\WFA_SuFaturasi.DataAccess.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\WFA_SuFaturasi.DataAccess.genruntimeconfig.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\Uygulamalarım\WFA_SuFaturası\WFA_SuFaturasi.DataAccess\obj\Debug\net6.0\ref\WFA_SuFaturasi.DataAccess.dll
